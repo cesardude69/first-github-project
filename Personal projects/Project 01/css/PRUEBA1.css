@@ -1,0 +1,36 @@
+/* * {
+  color: rgb(1, 162, 202);
+} */
+/* Con esto se anota todo */
+
+/* h1 {
+  color:rgb(3, 122, 9)
+}  */
+/* Este es especifico para cada atributo (header, hn...) */
+
+/* h2 {
+  color: rgb(51, 0, 255);
+ }
+
+.rojo {
+  color: rgb(255, 0, 0);
+} */
+/* el .abc es para clases, al poner .abc estas
+indicando querer cambiar los atributos de esa clase */
+
+/* #verde {
+  color: chartreuse;
+}
+
+body{
+  background-color: rgb(1, 13, 48);
+} */
+
+html{
+    font-size: 22px;
+}
+
+body{
+    background-color: #333;
+    color: whitesmoke
+}
